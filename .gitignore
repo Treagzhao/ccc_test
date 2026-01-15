@@ -1,0 +1,35 @@
+# Virtual environment
+.venv
+venv
+env
+env3
+envs
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Build
+dist/
+build/
+*.egg-info/
